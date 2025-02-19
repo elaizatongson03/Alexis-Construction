@@ -1,0 +1,11 @@
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\bin\Debug\AlexConstruction.exe.config
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\bin\Debug\AlexConstruction.exe
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\bin\Debug\AlexConstruction.pdb
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\obj\Debug\AlexConstruction.csproj.AssemblyReference.cache
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\obj\Debug\AlexConstruction.Properties.Resources.resources
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\obj\Debug\AlexConstruction.csproj.GenerateResource.cache
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\obj\Debug\AlexConstruction.csproj.CoreCompileInputs.cache
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\obj\Debug\AlexConstruction.exe
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\obj\Debug\AlexConstruction.pdb
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\obj\Debug\AlexConstruction.Clients.resources
+C:\Users\Richee\source\repos\AlexConstruction\AlexConstruction\obj\Debug\AlexConstruction.Login.resources
